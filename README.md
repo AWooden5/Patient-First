@@ -1,1 +1,5 @@
 # Patient-First
+This project talks about the safety of Patient First, and begins to go into the key features, network components, network design, network security + policies and lastly the active directory + cloud systems of the establishment.
+Patient First uses alot of online features to support their business such as an virtual waiting room, text alerts, and real-time updates on health records.
+With their network components, tools such as the Intergration of telemedicine(to reduce in-person contact) data analytics and AI (using these AI tools to keep track of patient data and analyze their flow of work), Iot devices and sensors (allows healthcare providers to remotely monitor patients vital signs and symptoms). 
+Also provided, you'll discover the company's networking concept, how different companys i different locations have connection to their routers, switches. I have also provided network security policies based on this company such as encryption, and how important confidentiality is in an establishment like Patient First.
